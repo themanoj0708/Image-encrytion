@@ -1,2 +1,2 @@
-# Image-encrytion
-A Caesar Ciepher Program for image encryption and pixel manipulation
+# Text-encrytion
+A Caesar Ciepher Program for text encryption
